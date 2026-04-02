@@ -2,7 +2,7 @@
 # PLC Challenge 🏭
 
 > Building real PLC & HMI experience from zero in 7 days 
-> using Codesys and Claude AI.
+> using Codesys because its free ):)
 
 ## Projects
 | Day | Project                  | Skills                |
@@ -17,5 +17,5 @@
 
 ## Tools used
 - Codesys V3 (free)
-- Claude AI (project partner)
+  
 
